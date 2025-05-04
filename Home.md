@@ -35,3 +35,5 @@ Aprender a usar Git y GitHub de forma profesional, trabajando con control de ver
 ## 📩 Contactosdsvsdvdsv
 
 Puedes seguir mi perfil para más recursos 👉 [@juan123XC](https://github.com/juan123XC)
+
+soy josue piipi 
